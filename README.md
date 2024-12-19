@@ -7,3 +7,4 @@ Sample snapshots::
 
 ![Alt text](relative%20path/to/image1.png?raw=true "Starting Page")
 
+<img width="622" alt="image" src="https://github.com/user-attachments/assets/0e78ad37-f862-4f1d-9f94-d3eff25302ba" />
